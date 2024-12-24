@@ -11,6 +11,5 @@ My Name is Aaliyan Ahmed and am AI Engineer.
 LANGUAGES AND TOOLS
 
 <img width="94" alt="app-icon" src="https://github.com/user-attachments/assets/945601e0-69b1-4170-acfe-89a4cf1effd3" />
-![OPENCV](https://github.com/user-attachments/assets/a56c39d7-ce05-442c-a67d-7a75d435b0d7)
 
 
