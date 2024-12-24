@@ -11,4 +11,3 @@ My Name is Aaliyan Ahmed and am AI Engineer.
 LANGUAGES AND TOOLS
 
 <img width="94" alt="app-icon" src="https://github.com/user-attachments/assets/945601e0-69b1-4170-acfe-89a4cf1effd3" />
-![tf](https://github.com/user-attachments/assets/4ce1a493-e1bd-4577-bf5f-8b71b53ea4db)
