@@ -14,8 +14,6 @@ Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | N
 📫 Reach me at: aliyannew16@gmail.com
 🌍 Open to freelance, remote roles, and collaboration opportunities!
 
-<img width="94" alt="app-icon" src="https://github.com/user-attachments/assets/945601e0-69b1-4170-acfe-89a4cf1effd3" />
-
 
 ### 🏆 Achievements
 ![YOLO Award](https://img.shields.io/badge/YOLO%20Award-Best%20AI%20Object%20Detection-gold?style=for-the-badge)
