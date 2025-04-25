@@ -5,11 +5,17 @@ I'm Aaliyan Ahmed, an AI Engineer & MLOps Architect, passionate about building s
 🚀 What I Build:
 
 → Advanced Computer Vision Systems: Real-time spatial understanding, activity analysis, object tracking, and scene intelligence
+
 → AI Workflows: End-to-end automation pipelines—from data ingestion and training to inference, monitoring, and deployment
+
 → Generative AI: Systems for content generation, image captioning, multimodal reasoning, and creative automation
+
 → Agentic AI: Autonomous, context-aware agents capable of multi-step reasoning, task delegation, and decision-making
+
 → Deployment Architectures: Production-grade setups using Docker, FastAPI, RabbitMQ, Kafka, and edge inference
+
 → MCP (Model Context Protocol): Integration of context-driven, multi-client AI services
+
 
 🤝 Let’s Collaborate On:
 
