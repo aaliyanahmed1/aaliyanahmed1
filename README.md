@@ -1,4 +1,5 @@
 Assalam-U-Alaikum
+
 I’m Aaliyan Ahmed, an AI Engineer & MLOps Architect with extensive experience in building and deploying scalable, production-grade AI systems. I specialize in designing intelligent, high-performance solutions across a range of domains, including Computer Vision, AI Workflows, Generative AI, and Agentic AI, all while ensuring seamless integration of robust backend infrastructures and real-time operational capabilities.
 
 Core Areas of Expertise:
