@@ -14,8 +14,11 @@ I'm Aaliyan Ahmed, an AI Engineer & MLOps Architect, passionate about building s
 🤝 Let’s Collaborate On:
 
 Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | NLP | MLOps | Generative AI | Agentic AI | Scalable AI Pipelines | Real-Time Intelligent Systems | MCP-Integrated Workflows
+
 📫 Reach me at: aliyannew16@gmail.com
+
 Open to Professional Collaborations
+
 I am open to engaging in collaborative work and projects in the fields of Artificial Intelligence, Machine Learning, Deep Learning, and MLOps. I specialize in delivering scalable AI solutions, integrating cutting-edge technologies, and providing end-to-end system architecture. Feel free to reach out for collaboration or consultation.
 
 ### 🏆 Achievements
