@@ -1,20 +1,18 @@
-👋 Hey there!
+Assalam-U-Alaikum
+I’m Aaliyan Ahmed, an AI Engineer & MLOps Architect with extensive experience in building and deploying scalable, production-grade AI systems. I specialize in designing intelligent, high-performance solutions across a range of domains, including Computer Vision, AI Workflows, Generative AI, and Agentic AI, all while ensuring seamless integration of robust backend infrastructures and real-time operational capabilities.
 
-I'm Aaliyan Ahmed, an AI Engineer & MLOps Architect, passionate about building scalable, production-grade AI systems. I specialize in crafting intelligent solutions across Computer Vision, AI Workflows, Generative AI, and Agentic AI, integrating robust backend infrastructure and real-time performance.
+Core Areas of Expertise:
+Advanced Computer Vision Systems: Implementing real-time spatial understanding, activity analysis, object tracking, and scene intelligence to enable deeper insights and automation in dynamic environments.
 
-🚀 What I Build:
+AI Workflows: Designing and optimizing end-to-end automation pipelines—from data ingestion, training, and model inference to performance monitoring and deployment—ensuring efficient, scalable, and reliable solutions.
 
-→ Advanced Computer Vision Systems: Real-time spatial understanding, activity analysis, object tracking, and scene intelligence
+Generative AI: Creating systems for content generation, image captioning, multimodal reasoning, and creative automation, pushing the boundaries of innovation through AI-driven creativity.
 
-→ AI Workflows: End-to-end automation pipelines—from data ingestion and training to inference, monitoring, and deployment
+Agentic AI: Developing autonomous, context-aware agents that perform multi-step reasoning, task delegation, and decision-making, enabling sophisticated AI interactions and intelligent automation.
 
-→ Generative AI: Systems for content generation, image captioning, multimodal reasoning, and creative automation
+Deployment Architectures: Architecting production-grade environments using cutting-edge tools like Docker, FastAPI, RabbitMQ, Kafka, and edge inference, ensuring reliability, scalability, and real-time performance.
 
-→ Agentic AI: Autonomous, context-aware agents capable of multi-step reasoning, task delegation, and decision-making
-
-→ Deployment Architectures: Production-grade setups using Docker, FastAPI, RabbitMQ, Kafka, and edge inference
-
-→ MCP (Model Context Protocol): Integration of context-driven, multi-client AI services
+MCP (Model Context Protocol): Seamlessly integrating context-driven, multi-client AI services for a more adaptable and intelligent model deployment strategy.
 
 
 🤝 Let’s Collaborate On:
