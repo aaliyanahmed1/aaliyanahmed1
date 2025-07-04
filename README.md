@@ -1,30 +1,32 @@
-Assalam-U-Alaikum
+Assalam-U-Alaikum — I’m Aaliyan Ahmed
+AI Engineer & MLOps Architect | Computer Vision | Generative AI | Real-Time AI Systems
 
-I’m Aaliyan Ahmed, an AI Engineer & MLOps Architect with extensive experience in building and deploying scalable, production-grade AI systems. I specialize in designing intelligent, high-performance solutions across a range of domains, including Computer Vision, AI Workflows, Generative AI, and Agentic AI, all while ensuring seamless integration of robust backend infrastructures and real-time operational capabilities.
+I design, build, and deploy scalable, production-grade AI systems that solve real-world problems through automation, intelligence, and performance optimization. With a strong foundation in Computer Vision, Generative AI, and Agentic AI, I specialize in delivering end-to-end AI pipelines that are fast, resilient, and enterprise-ready.
 
-Core Areas of Expertise:
-Advanced Computer Vision Systems: Implementing real-time spatial understanding, activity analysis, object tracking, and scene intelligence to enable deeper insights and automation in dynamic environments.
+💡 Core Expertise
+🔹 Real-Time Computer Vision
+From motion detection to multi-object tracking and spatial analytics—I've architected vision pipelines capable of understanding and reacting to dynamic environments with high accuracy and low latency.
 
-AI Workflows: Designing and optimizing end-to-end automation pipelines—from data ingestion, training, and model inference to performance monitoring and deployment—ensuring efficient, scalable, and reliable solutions.
+🔹 AI Workflow Engineering
+I design complete AI pipelines including data preprocessing, model training, inference, evaluation, and CI/CD deployment. My stacks integrate FastAPI, Docker, RabbitMQ, and GPU/Edge inference seamlessly.
 
-Generative AI: Creating systems for content generation, image captioning, multimodal reasoning, and creative automation, pushing the boundaries of innovation through AI-driven creativity.
+🔹 Generative AI & Multimodal Systems
+Built systems for image captioning, content generation, and multimodal reasoning using models like Florence-2 and GIT. I enable creativity and automation through AI-powered storytelling and content workflows.
 
-Agentic AI: Developing autonomous, context-aware agents that perform multi-step reasoning, task delegation, and decision-making, enabling sophisticated AI interactions and intelligent automation.
+🔹 Agentic AI Systems
+I develop autonomous agents that perform multi-step reasoning, task orchestration, and real-time decisions—enabling intelligent interaction between users, environments, and data.
 
-Deployment Architectures: Architecting production-grade environments using cutting-edge tools like Docker, FastAPI, RabbitMQ, Kafka, and edge inference, ensuring reliability, scalability, and real-time performance.
+🔹 MLOps & Deployment Architectures
+Specializing in Dockerized microservices, FastAPI-based APIs, message brokers (RabbitMQ, Kafka), and context-aware services using MCP (Model Context Protocol) for multi-client scalability.
 
-MCP (Model Context Protocol): Seamlessly integrating context-driven, multi-client AI services for a more adaptable and intelligent model deployment strategy.
+Let’s Collaborate:
+Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • NLP • MLOps • Generative AI • Agentic AI • Real-Time AI Systems • Scalable Architectures • MCP-Integrated Pipelines
+
+📫 Email: aliyansnew16@gmail.com
+🌐 GitHub: aaliyanahmed1
+🔗 LinkedIn: Aaliyan Ahmed Rao
 
 
-🤝 Let’s Collaborate On:
-
-Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | NLP | MLOps | Generative AI | Agentic AI | Scalable AI Pipelines | Real-Time Intelligent Systems | MCP-Integrated Workflows
-
-📫 Reach me at: aliyannew16@gmail.com
-
-Open to Professional Collaborations
-
-I am open to engaging in collaborative work and projects in the fields of Artificial Intelligence, Machine Learning, Deep Learning, and MLOps. I specialize in delivering scalable AI solutions, integrating cutting-edge technologies, and providing end-to-end system architecture. Feel free to reach out for collaboration or consultation.
 
 ### 🏆 Achievements
 ![YOLO Award](https://img.shields.io/badge/YOLO%20Award-Best%20AI%20Object%20Detection-gold?style=for-the-badge)
