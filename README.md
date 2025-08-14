@@ -1,5 +1,5 @@
 Assalam-U-Alaikum — I’m Aaliyan Ahmed
-AI Engineer & MLOps Architect | Computer Vision | Generative AI | Real-Time AI Systems
+AI Engineer & MLOps Architect 
 
 I design, build, and deploy scalable, production-grade AI systems that solve real-world problems through automation, intelligence, and performance optimization. With a strong foundation in Computer Vision, Generative AI, and Agentic AI, I specialize in delivering end-to-end AI pipelines that are fast, resilient, and enterprise-ready.
 
