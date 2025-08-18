@@ -1,32 +1,32 @@
-Assalam-U-Alaikum — I’m Aaliyan Ahmed
-AI Engineer & MLOps Architect 
+Assalam-U-Alaikum, I’m Aaliyan Ahmed
 
-I design, build, and deploy scalable, production-grade AI systems that solve real-world problems through automation, intelligence, and performance optimization. With a strong foundation in Computer Vision, Generative AI, and Agentic AI, I specialize in delivering end-to-end AI pipelines that are fast, resilient, and enterprise-ready.
+AI Engineer & MLOps Architect
 
-💡 Core Expertise
-🔹 Real-Time Computer Vision
-From motion detection to multi-object tracking and spatial analytics—I've architected vision pipelines capable of understanding and reacting to dynamic environments with high accuracy and low latency.
+I build and deploy AI systems that actually work in the real world — fast, reliable, and scalable. My focus is on making AI practical: systems that solve problems, automate processes, and deliver value at scale.
 
-🔹 AI Workflow Engineering
-I design complete AI pipelines including data preprocessing, model training, inference, evaluation, and CI/CD deployment. My stacks integrate FastAPI, Docker, RabbitMQ, and GPU/Edge inference seamlessly.
+🌟 What I Do
 
-🔹 Generative AI & Multimodal Systems
-Built systems for image captioning, content generation, and multimodal reasoning using models like Florence-2 and GIT. I enable creativity and automation through AI-powered storytelling and content workflows.
+Computer Vision – I build end-to-end Computer Vision solutions — from image recognition to large-scale video intelligence
 
-🔹 Agentic AI Systems
-I develop autonomous agents that perform multi-step reasoning, task orchestration, and real-time decisions—enabling intelligent interaction between users, environments, and data.
+AI Pipelines – End-to-end workflows: data prep, model training, inference, evaluation, and deployment.
 
-🔹 MLOps & Deployment Architectures
-Specializing in Dockerized microservices, FastAPI-based APIs, message brokers (RabbitMQ, Kafka), and context-aware services using MCP (Model Context Protocol) for multi-client scalability.
+Generative & Multimodal AI – AI that can describe images, create content, and reason across text + visuals.
 
-Let’s Collaborate:
-Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • NLP • MLOps • Generative AI • Agentic AI • Real-Time AI Systems • Scalable Architectures • MCP-Integrated Pipelines
+Agentic AI – Intelligent agents that make decisions, complete tasks, and interact with people and environments.
 
-📫 Email: aliyansnew16@gmail.com
-🌐 GitHub: aaliyanahmed1
-🔗 LinkedIn: Aaliyan Ahmed Rao
+MLOps & Deployment – Scalable microservices with FastAPI, Docker, RabbitMQ/Kafka, and MCP for multi-client use.
 
+🔑 My Approach
 
+I care about clarity, reliability, and performance. Every system I design is built to be understandable, maintainable, and production-ready — whether it’s a computer vision pipeline or a multi-agent workflow.
+
+📫 Connect with Me
+
+Email: aliyansnew16@gmail.com
+
+GitHub: aaliyanahmed1
+
+LinkedIn: Aaliyan Ahmed Rao
 
 ### 🏆 Achievements
 ![YOLO Award](https://img.shields.io/badge/YOLO%20Award-Best%20AI%20Object%20Detection-gold?style=for-the-badge)
