@@ -22,7 +22,7 @@ I care about clarity, reliability, and performance. Every system I design is bui
 
 📫 Connect with Me
 
-Email: aliyansnew16@gmail.com
+Email: aliyannew16@gmail.com
 
 GitHub: aaliyanahmed1
 
