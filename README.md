@@ -4,10 +4,6 @@ I provide optimized solutions and production-ready pipelines in Generative AI (G
 
 ---
 
-![YOLO Award](https://img.shields.io/badge/YOLO%20Award-Best%20AI%20Object%20Detection-gold?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
----
-
 ## What I deliver
 
 - Production-ready AI systems and pipelines for GENAI, ML, Computer Vision, and video analytics optimized for latency, throughput, and cost.
@@ -64,14 +60,6 @@ I provide optimized solutions and production-ready pipelines in Generative AI (G
 - CI / Infra: GitHub Actions, Terraform  
 - Observability: Prometheus, Grafana, ELK
 
-## Example visuals
-![Machine Learning Flow](https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png)
-![VS Code IDE](https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png)
-![Architecture Diagram](https://raw.githubusercontent.com/github/explore/main/topics/system-design/system-design.png)
-![Docker Logo](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png)
-
-These images are illustrative; I can replace them with your screenshots or architecture diagrams if you provide them.
-
 ## Contact & Website
 - Email: aliyannew16@gmail.com  
 - Website: https://aaliyanahmed-rao.vercel.app/  
@@ -79,3 +67,4 @@ These images are illustrative; I can replace them with your screenshots or archi
 - LinkedIn: https://www.linkedin.com/in/aaliyan-ahmed-rao
 
 ---
+
